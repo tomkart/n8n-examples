@@ -1,5 +1,4 @@
 # n8n-examples
-n8n examples
 
 # AI Agent with Ollama for current weather and wiki
 
